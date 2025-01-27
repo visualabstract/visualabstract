@@ -1,4 +1,3 @@
-<script>
         function showTab(tabId) {
             document.querySelectorAll('.tab-content').forEach(tab => {
                 tab.classList.remove('active');
@@ -17,4 +16,3 @@
             alert('Form submitted successfully!');
             window.location.href = '#'; // Replace '#' with success page link.
         }
-    </script>
