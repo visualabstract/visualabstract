@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visual Abstract</title>
+    <a href="visualabstract.github.io/document.pdf" target="_blank">PDF.</a>
+
+</head>
+<body>
+    <header>
+        <h1>We Value Your Ideas : )</h1>
+    </header>
+   </body>
+</html>
